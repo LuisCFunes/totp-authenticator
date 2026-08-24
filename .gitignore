@@ -1,0 +1,11 @@
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+
+# personal secrets - never commit
+github-recovery-codes.txt
+*.txt.secret
+recovery*.txt
